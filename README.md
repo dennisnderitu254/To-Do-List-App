@@ -1,6 +1,7 @@
 # This is a TO-DO-LIST Application in React JS
 
-- ADD IMAGE
+!["TODO"](TodolistDEMO.png)
+
 
 ## Steps to create the Application:
 
